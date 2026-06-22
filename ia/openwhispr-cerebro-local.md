@@ -10,7 +10,7 @@ Se você chegou por causa do vídeo do Instagram, este é o guia rápido para vo
 
 Nós vamos usar o **OpenWhispr**. É uma interface excelente que gerencia tanto a transcrição do áudio quanto o modelo de linguagem (LLM) para limpar o texto.
 
-*   🔗 **Link para Download:** [OpenWhispr Oficial](https://openwhispr.ai/) (Disponível para Windows, Mac e Linux)
+*   🔗 **Link para Download:** [OpenWhispr Oficial](https://openwhispr.com/) (Disponível para Windows, Mac e Linux)
 
 ---
 
